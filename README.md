@@ -58,7 +58,8 @@ Esse projeto está hospedado no Netlifly, clique [aqui](https://page-login-basic
 ### Mobile
 
 <p align="center">
-  <img alt="landingpage" title="landingpage" src="./assets/home-mobile.png" width="200px">
+  <img alt="landingpage" title="landingpage" src="./home_jungle.png" width="50%">
+	<img alt="landingpage" title="landingpage" src="./home_jungle_footer.png" width="50%">
  </p>
 
 ---
