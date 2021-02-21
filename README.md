@@ -51,12 +51,6 @@ Esse projeto está hospedado no Netlifly, clique [aqui](https://page-login-basic
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="landingpage" title="landingpage" src="./assets/home-mobile.png" width="200px">
-</p>
-
-### Mobile
-
 <p align="center">
   <img alt="landingpage" title="landingpage" src="./home_jungle.png" width="50%">
 	<img alt="landingpage" title="landingpage" src="./home_jungle_footer.png" width="50%">
